@@ -1,1 +1,0 @@
-//manipulación de Objetos
